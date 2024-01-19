@@ -20,18 +20,17 @@ This is a Computer Vision Free Course from Kaggle lectured by [Alexis Cook](http
 - All you need is an Kaggle Account to start learning for free
 - Once you logged in, go this [link](https://www.kaggle.com/learn/computer-vision), and you ready to go.
 
+## Lectures Notebooks
+
+All lectures notebooks are available [here](./lab/notebooks/lectures/).
+
+## Lab Notebooks
+
+All hands-on exercises notebooks are available [here](./lab/notebooks/exercises/).
+
+
+
 Happy Learning!
-
-
-
-**Datasets**
-
-1. The Convolutional Classifier Dataset
-2. Convolution and ReLU Dataset
-3. Maximum Pooling Dataset
-4. The Sliding Window Dataset
-5. Custom Convnets Dataset
-6. Data Augmentation Dataset
 
 
 ## References
@@ -39,4 +38,7 @@ Happy Learning!
 - [Kaggle Computer Vision Online Course](https://www.kaggle.com/learn/computer-vision)
 - [Kaggle Learn - Other Online Courses](https://www.kaggle.com/learn)
 
+
+> ## "Vision is a picture of the future that produces passion." - Bill Hybels
+ 
 
